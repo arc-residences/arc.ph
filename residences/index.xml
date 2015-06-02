@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Residences on Arc Residences</title>
+    <link>http://arc.ph/residences/</link>
+    <description>Recent content in Residences on Arc Residences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2015 23:29:39 +0800</lastBuildDate>
+    <atom:link href="http://arc.ph/residences/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>reservation</title>
+      <link>http://arc.ph/residences/reservation/</link>
+      <pubDate>Tue, 02 Jun 2015 23:29:39 +0800</pubDate>
+      
+      <guid>http://arc.ph/residences/reservation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arc Residences</title>
-    <link>http://localhost:1313/</link>
+    <link>http://arc.ph/</link>
     <description>Recent content on Arc Residences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 13:46:28 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2015 23:29:39 +0800</lastBuildDate>
+    <atom:link href="http://arc.ph/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>reservation</title>
-      <link>http://localhost:1313/reservation/</link>
-      <pubDate>Mon, 18 May 2015 13:46:28 +0800</pubDate>
+      <link>http://arc.ph/residences/reservation/</link>
+      <pubDate>Tue, 02 Jun 2015 23:29:39 +0800</pubDate>
       
-      <guid>http://localhost:1313/reservation/</guid>
+      <guid>http://arc.ph/residences/reservation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>http://arc.ph/location/</link>
       <pubDate>Mon, 18 May 2015 13:46:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/location/</guid>
+      <guid>http://arc.ph/location/</guid>
       <description></description>
     </item>
     
     <item>
       <title>facilities</title>
-      <link>http://localhost:1313/facilities/</link>
+      <link>http://arc.ph/facilities/</link>
       <pubDate>Mon, 18 May 2015 13:46:12 +0800</pubDate>
       
-      <guid>http://localhost:1313/facilities/</guid>
+      <guid>http://arc.ph/facilities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rooms</title>
-      <link>http://localhost:1313/rooms/</link>
+      <link>http://arc.ph/rooms/</link>
       <pubDate>Mon, 18 May 2015 13:46:03 +0800</pubDate>
       
-      <guid>http://localhost:1313/rooms/</guid>
+      <guid>http://arc.ph/rooms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://arc.ph/contact/</link>
       <pubDate>Thu, 14 May 2015 09:34:02 +0800</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://arc.ph/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;contacting-us:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contacting us&lt;/h1&gt;
