@@ -6,8 +6,17 @@
     <description>Recent content in Residences on Arc Residences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2015 23:29:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2015 01:04:55 +0800</lastBuildDate>
     <atom:link href="http://arc.ph/residences/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://arc.ph/residences/</link>
+      <pubDate>Wed, 03 Jun 2015 01:04:55 +0800</pubDate>
+      
+      <guid>http://arc.ph/residences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reservation</title>
